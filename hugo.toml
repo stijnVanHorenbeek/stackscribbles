@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://stijnvanhorenbeek.github.io/stackscribbles/'
 languageCode = 'en-us'
 title = 'Stack Scribbles'
 theme = ["PaperMod"]
